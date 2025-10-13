@@ -36,5 +36,5 @@ for x in range(len(a)):
         flag = True
         print(f"The position for the element is:{x+1}")
 
-if  flag == False:
+if not  flag:
     print("unable to find element ...")
