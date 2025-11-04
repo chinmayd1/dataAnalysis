@@ -50,6 +50,7 @@ a11 = np.array([
     [7,8,9]
 ])
 print(a11[0,2])
+print(a11[2,2])
 
 # [     0 1 2
 #     0[1,2,3],
@@ -58,3 +59,6 @@ print(a11[0,2])
 # ]
 
 
+# 6 pm , 6:30 pm , 7:30 pm , 8 pm javascript , 8:30 pm
+# 8:30 am   - prompt engineering
+# Power BI

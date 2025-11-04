@@ -59,9 +59,7 @@ print(martixA.dtype)
 print(martixA.size)
 print(martixA.itemsize)
 
-
 # program3 
-
 matrixC = array([11,22,33])
 print(matrixC+1)
 print(matrixC*2)

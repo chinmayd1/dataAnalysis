@@ -41,7 +41,7 @@ print(np.linspace(5,10,10))
 #     [7,8,9]
 
 # ]
-print(np.arange(1,11,1).reshape(2,5))
-print(np.arange(1,11,1).reshape(5,2))
+print(np.arange(1,11,1).reshape(2,5)) # row, column
+print(np.arange(1,11,1).reshape(5,2)) # row column
 
 
