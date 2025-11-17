@@ -32,8 +32,10 @@ print(arr2[:,-1])
 print(arr2[1:3,1:3])
 
 # Boolean indexing 
-
 arr = np.array([10,20,30,40,50,60,70])
 boolean_mask = arr > 40 # [False False False False  True  True  True]
 # filtered operation
 print(arr[boolean_mask])
+
+
+
