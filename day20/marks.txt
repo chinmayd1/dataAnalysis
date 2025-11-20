@@ -1,0 +1,3 @@
+name|math|science
+Amit|88|90
+Riya|78|95
