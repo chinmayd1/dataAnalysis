@@ -62,6 +62,5 @@ print(df4.shape)
 print(df4.columns)
 print(df4[['Name','Department']])
 
-
 a = df4['Salary'] > 55000
 print(df4[a])
